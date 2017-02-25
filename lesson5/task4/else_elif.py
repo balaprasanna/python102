@@ -11,7 +11,8 @@ else:
 
 name = "John"
 
-check if name equal to "John"
+# check if name equal to "John"
+if name == "John":
     print(True)
-otherwise
+else:
     print(False)
