@@ -15,31 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="in_operator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task6/in_operator.py">
+      <file leaf-file-name="string_formatting.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson3/task10/string_formatting.py">
           <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="54">
-              <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="len_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task7/len_function.py">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="90">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="character_escaping.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson3/task8/character_escaping.py">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="54">
-              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,6 +47,9 @@
         <option value="$PROJECT_DIR$/lesson3/task5/slicing.py" />
         <option value="$PROJECT_DIR$/lesson3/task6/in_operator.py" />
         <option value="$PROJECT_DIR$/lesson3/task7/len_function.py" />
+        <option value="$PROJECT_DIR$/lesson3/task8/character_escaping.py" />
+        <option value="$PROJECT_DIR$/lesson3/task9/string_methods.py" />
+        <option value="$PROJECT_DIR$/lesson3/task10/string_formatting.py" />
       </list>
     </option>
   </component>
@@ -103,38 +86,6 @@
               <option name="myItemType" value="com.jetbrains.edu.learning.projectView.CourseDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonIntroduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonIntroduction" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.CourseDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.LessonDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonIntroduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonIntroduction" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.CourseDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.LessonDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task8" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.TaskDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -143,41 +94,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
-  <component name="RunManager" selected="Python.len_function">
-    <configuration default="false" name="concatenation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/task1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonIntroduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task1/concatenation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="negative_indexing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/task4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonIntroduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task4/negative_indexing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.string_formatting">
     <configuration default="false" name="slicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,6 +142,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonIntroduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task7/len_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="character_escaping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/task8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonIntroduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task8/character_escaping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="string_formatting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/task10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonIntroduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task10/string_formatting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -377,19 +328,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.concatenation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.negative_indexing" />
-      <item index="2" class="java.lang.String" itemvalue="Python.slicing" />
-      <item index="3" class="java.lang.String" itemvalue="Python.in_operator" />
-      <item index="4" class="java.lang.String" itemvalue="Python.len_function" />
+      <item index="0" class="java.lang.String" itemvalue="Python.slicing" />
+      <item index="1" class="java.lang.String" itemvalue="Python.in_operator" />
+      <item index="2" class="java.lang.String" itemvalue="Python.len_function" />
+      <item index="3" class="java.lang.String" itemvalue="Python.character_escaping" />
+      <item index="4" class="java.lang.String" itemvalue="Python.string_formatting" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.len_function" />
-        <item index="1" class="java.lang.String" itemvalue="Python.in_operator" />
-        <item index="2" class="java.lang.String" itemvalue="Python.slicing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.negative_indexing" />
-        <item index="4" class="java.lang.String" itemvalue="Python.concatenation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.string_formatting" />
+        <item index="1" class="java.lang.String" itemvalue="Python.character_escaping" />
+        <item index="2" class="java.lang.String" itemvalue="Python.len_function" />
+        <item index="3" class="java.lang.String" itemvalue="Python.in_operator" />
+        <item index="4" class="java.lang.String" itemvalue="Python.slicing" />
       </list>
     </recent_temporary>
   </component>
@@ -400,11 +351,11 @@
     <frame x="0" y="24" width="1920" height="997" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18036287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18036287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39114195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -574,7 +525,23 @@
     <entry file="file://$PROJECT_DIR$/lesson3/task8/character_escaping.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="54">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="11" />
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task9/string_methods.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task10/string_formatting.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
