@@ -2954,7 +2954,7 @@
                       <option name="index" value="1" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Definition" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98725" />
                       <option name="text" />
                       <option name="updateDate" value="1470193313000" />
@@ -2975,7 +2975,7 @@
                                       </option>
                                       <option name="length" value="28" />
                                       <option name="offset" value="30" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -2992,7 +2992,7 @@
                                                 <option name="placeholderText" value="assign any value to variable" />
                                                 <option name="possibleAnswer" value="4" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3002,7 +3002,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3021,7 +3021,7 @@
                       <option name="index" value="2" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Variable access" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98726" />
                       <option name="text" />
                       <option name="updateDate" value="1470193347000" />
@@ -3040,9 +3040,9 @@
                                           <option name="offset" value="408" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="33" />
+                                      <option name="length" value="19" />
                                       <option name="offset" value="408" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3059,7 +3059,7 @@
                                                 <option name="placeholderText" value="value of variable1 from my_object" />
                                                 <option name="possibleAnswer" value="my_object.variable1" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3069,7 +3069,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3088,7 +3088,7 @@
                       <option name="index" value="3" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Variable access" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98727" />
                       <option name="text" />
                       <option name="updateDate" value="1470193403000" />
@@ -3107,9 +3107,9 @@
                                           <option name="offset" value="220" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="20" />
+                                      <option name="length" value="5" />
                                       <option name="offset" value="220" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3126,7 +3126,7 @@
                                                 <option name="placeholderText" value="create object of Car" />
                                                 <option name="possibleAnswer" value="Car()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3142,9 +3142,9 @@
                                           <option name="offset" value="262" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="262" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="247" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3161,7 +3161,7 @@
                                                 <option name="placeholderText" value="set car2 color" />
                                                 <option name="possibleAnswer" value="car2.color = &quot;red&quot;" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3171,7 +3171,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3190,7 +3190,7 @@
                       <option name="index" value="4" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Self explanation" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98728" />
                       <option name="text" />
                       <option name="updateDate" value="1470193484000" />
@@ -3209,9 +3209,9 @@
                                           <option name="offset" value="184" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="21" />
+                                      <option name="length" value="22" />
                                       <option name="offset" value="184" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3228,7 +3228,7 @@
                                                 <option name="placeholderText" value="add number to current" />
                                                 <option name="possibleAnswer" value="self.current += amount" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3238,7 +3238,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3257,7 +3257,7 @@
                       <option name="index" value="5" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Special __init__ method" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98729" />
                       <option name="text" />
                       <option name="updateDate" value="1470193558000" />
@@ -3276,9 +3276,9 @@
                                           <option name="offset" value="159" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="19" />
+                                      <option name="length" value="11" />
                                       <option name="offset" value="159" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3295,7 +3295,7 @@
                                                 <option name="placeholderText" value="add parameters here" />
                                                 <option name="possibleAnswer" value="self, color" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3305,7 +3305,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3334,7 +3334,7 @@
                       <option name="index" value="1" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Import module" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98730" />
                       <option name="text" />
                       <option name="updateDate" value="1470193808000" />
@@ -3369,9 +3369,9 @@
                                           <option name="offset" value="164" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="21" />
+                                      <option name="length" value="16" />
                                       <option name="offset" value="164" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3388,7 +3388,7 @@
                                                 <option name="placeholderText" value="here import my_module" />
                                                 <option name="possibleAnswer" value="import my_module" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3404,9 +3404,9 @@
                                           <option name="offset" value="187" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="40" />
-                                      <option name="offset" value="187" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="28" />
+                                      <option name="offset" value="182" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3423,7 +3423,7 @@
                                                 <option name="placeholderText" value="call function hello_world from my_module" />
                                                 <option name="possibleAnswer" value="my_module.hello_world('John')" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3433,7 +3433,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3468,7 +3468,7 @@
                       <option name="index" value="2" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Builtin modules" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98731" />
                       <option name="text" />
                       <option name="updateDate" value="1470195041000" />
@@ -3487,9 +3487,9 @@
                                           <option name="offset" value="23" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="12" />
+                                      <option name="length" value="21" />
                                       <option name="offset" value="23" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3506,7 +3506,7 @@
                                                 <option name="placeholderText" value="current date" />
                                                 <option name="possibleAnswer" value="datetime.datetime.today()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3516,7 +3516,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3535,7 +3535,7 @@
                       <option name="index" value="3" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="From import" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98732" />
                       <option name="text" />
                       <option name="updateDate" value="1470194124000" />
@@ -3572,7 +3572,7 @@
                                       </option>
                                       <option name="length" value="33" />
                                       <option name="offset" value="169" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3589,7 +3589,7 @@
                                                 <option name="placeholderText" value="import hello_world from my_module" />
                                                 <option name="possibleAnswer" value="from my_module import hello_world" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3599,7 +3599,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="2" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3644,7 +3644,7 @@
                       <option name="index" value="1" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Read file" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98733" />
                       <option name="text" />
                       <option name="updateDate" value="1470194226000" />
@@ -3695,9 +3695,9 @@
                                           <option name="offset" value="266" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="15" />
+                                      <option name="length" value="11" />
                                       <option name="offset" value="266" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3714,7 +3714,7 @@
                                                 <option name="placeholderText" value="print each line" />
                                                 <option name="possibleAnswer" value="print(line)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3730,9 +3730,9 @@
                                           <option name="offset" value="410" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="27" />
-                                      <option name="offset" value="410" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="20" />
+                                      <option name="offset" value="406" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3749,7 +3749,7 @@
                                                 <option name="placeholderText" value="print only first line of f1" />
                                                 <option name="possibleAnswer" value="print(f1.readline())" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3765,9 +3765,9 @@
                                           <option name="offset" value="439" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="27" />
-                                      <option name="offset" value="439" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="10" />
+                                      <option name="offset" value="428" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3784,7 +3784,7 @@
                                                 <option name="placeholderText" value="do not forget to close file" />
                                                 <option name="possibleAnswer" value="f1.close()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3794,7 +3794,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="2" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3813,7 +3813,7 @@
                       <option name="index" value="2" />
                       <option name="lastSubtaskIndex" value="0" />
                       <option name="name" value="Write to file" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="98734" />
                       <option name="text" />
                       <option name="updateDate" value="1470194264000" />
@@ -3825,7 +3825,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3848,9 +3848,9 @@
                                           <option name="offset" value="92" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="12" />
+                                      <option name="length" value="3" />
                                       <option name="offset" value="92" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3867,7 +3867,7 @@
                                                 <option name="placeholderText" value="add modifier" />
                                                 <option name="possibleAnswer" value="'a'" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3883,8 +3883,8 @@
                                           <option name="offset" value="133" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="35" />
-                                      <option name="offset" value="133" />
+                                      <option name="length" value="10" />
+                                      <option name="offset" value="124" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
                                         <map>
@@ -3902,7 +3902,7 @@
                                                 <option name="placeholderText" value="add the whole zoo to the output.txt" />
                                                 <option name="possibleAnswer" value="f.write(i)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3918,8 +3918,8 @@
                                           <option name="offset" value="174" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="174" />
+                                      <option name="length" value="9" />
+                                      <option name="offset" value="140" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
                                         <map>
@@ -3937,7 +3937,7 @@
                                                 <option name="placeholderText" value="close the file" />
                                                 <option name="possibleAnswer" value="f.close()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3947,7 +3947,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
